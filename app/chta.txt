@@ -1,0 +1,17 @@
+
+$user = User:: all();
+User::where('status',1)
+orderBy('name)
+get();
+
+$user = User::first();
+
+# leave management
+user_id
+name
+date
+status
+no_day
+message
+type
+
