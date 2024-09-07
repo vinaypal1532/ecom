@@ -1,1 +1,1 @@
-﻿# this is ecom website where admin can add product user can purchase it
+﻿# Add eCommerce functionality: Admin product management and user purchases
